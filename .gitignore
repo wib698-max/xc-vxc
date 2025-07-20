@@ -1,0 +1,5 @@
+*.safetensors
+*.bin
+*.spm
+.DS_Store
+__pycache__/
